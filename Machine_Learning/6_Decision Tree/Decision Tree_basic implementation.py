@@ -1,0 +1,24 @@
+import numpy as np
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_validate
+from sklearn import datasets
+
+iris_data = datasets.load_iris()
+
+features = iris_data.data
+targets = iris_data.target
+
+feature_train, feature_test, target_train, target_test = train_test_split(features, targets, test_size=0.2)
+
+model = DecisionTreeClassifier(criterion='gini')
+# depth of the tree = # of layer
+
+predicted = cross_validate(model, features, targets, cv=10)
+print(np.mean(predicted['test_score']))
+
+"""
+Most significant problem is every split it makes at each node is optimized for the dataset it is fit to
+~ this splitting process will rarely generalized well to other data!!
+>> over-fitting problem
+"""
