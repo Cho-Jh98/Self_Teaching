@@ -28,9 +28,9 @@
 
 #### [9. Clustering](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering)
   * [PCA](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering/1_PCA)
-  * [K means Clustering](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering#:~:text=2_K%2Dmeans%20Clustering)
-  * [DBSCAN](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering#:~:text=5%20months%20ago-,3_DBSCAN,-b4%20new%20semester)
-  * [Hierachical Clustering](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering#:~:text=4_Hierachical%20clustering)
+  * [K means Clustering](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering/2_K-means%20Clustering)
+  * [DBSCAN](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering/3_DBSCAN)
+  * [Hierachical Clustering](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/9_Clustering/4_Hierachical%20clustering)
 
 #### [10. Face Detection Project](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/10_Project_face%20detection)
 
@@ -45,11 +45,11 @@
 * Using tensorflow/Keras
 * Sequential model
 
-#### [2. Convolutional Neural Network](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Deep_Learning#:~:text=2.%20Convolutional%20Nueral%20Network)
+#### [2. Convolutional Neural Network](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Deep_Learning/2.%20Convolutional%20Nueral%20Network)
 
-#### [3. Recurrent Neural Network](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Deep_Learning#:~:text=3.%20Recurrent%20Neural%20Networks)
+#### [3. Recurrent Neural Network](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Deep_Learning/3.%20Recurrent%20Neural%20Networks)
 
-#### [4. Reinforcement Learning](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Deep_Learning#:~:text=4.%20Reinforcement%20Learning)
+#### [4. Reinforcement Learning](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Deep_Learning/4.%20Reinforcement%20Learning)
 
 
 
