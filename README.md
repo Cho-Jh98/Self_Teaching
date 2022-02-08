@@ -10,7 +10,7 @@
 
 * Basic Method of Machine Learning
 
-[#### 1. Linear Regression](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/1_Linear%20Regresion)
+#### [1. Linear Regression](https://github.com/Cho-Jh98/Self_Teaching/tree/master/Machine_Learning/1_Linear%20Regresion)
 
 #### 2. Logistic Regression
 
